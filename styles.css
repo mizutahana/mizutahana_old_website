@@ -1,0 +1,113 @@
+body {
+    color: #303030;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: #F5F5F5;
+}
+
+#header {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: #F5F5F5;
+    height: 100px;
+}
+
+#flower1 {
+    float: left;
+    padding-right: 50px;
+    /*padding: 90px 30px 90px 25%;*/
+}
+
+#flower2 {
+    float: left;
+    padding-left: 50px;
+    /*padding: 90px 25% 90px 30px;*/
+}
+
+#name {
+    float: left;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#inner {
+    padding: 100px;
+    margin: 0 auto;
+    width: 40%;
+}
+
+#about {
+    background-color: #F5F5F5;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+h3 {
+    padding-top: 100px;
+    font-size: 35px;
+    text-align: center;
+}
+
+h5 {
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    padding-left: 200px;
+    padding-right: 200px;
+    line-height: 40px;
+    text-align: center;
+}
+
+li {
+    line-height: 40px;
+    margin-left: 50px;
+}
+
+#nyc {
+    height: 300px;
+    width: 800px;
+}
+
+#work_inner {
+    width: 80%;
+}
+
+#projects {
+    background-color: #F5F5F5;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.iconrow {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h4 {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    color: #303030;
+}
+
+a:hover {
+    color: grey;
+}
+
+i {
+    padding-left: 50px;
+    padding-right: 10px;
+}
+
+#links {
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
